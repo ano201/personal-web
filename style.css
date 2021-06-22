@@ -44,6 +44,7 @@ section{
 }
 .last_work_sec{
   background: url("images/latest-work-bg.png") no-repeat;
+  background-size: cover;
 }
 .center_text{
   text-align: center;
