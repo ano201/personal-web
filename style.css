@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body {
+   margin-top: 0;
+   font-family: 'Poppins', sans-serif;
+}
+.hotpink_highlight{
+  color: hotpink;
+}
+.image_width img{
+  width: 100%;
+}
+.text_width{
+  width: 50%;
+  float: left;
+  padding-left: 5%;
+}
+h1{
+  font-size: 50px;
+}
+h2{
+font-size: 40px;
+}
+.image_width{
+  width: 45%;
+  float: left;
+}
+section{
+  padding: 4%;
+  height: 400px;
+}
+.top_sec{
+  background: url("images/header-bg.png") no-repeat;
+}
+.a_button{
+  background: linear-gradient(45deg, hotpink, salmon);
+  font-weight: bolder;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  padding: 10px;
+}
+.biography_sec{
+  background: url("images/biography-bg.png") no-repeat;
+}
+.last_work_sec{
+  background: url("images/latest-work-bg.png") no-repeat;
+}
+.center_text{
+  text-align: center;
+}
+.work img{
+  width: 27%;
+  margin: 2%;
+}
+.footer_sec{
+  background: url("images/footer-bg.png") no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+.footer_sec h6{
+  font-weight: 400;
+  margin-top: -10px;
+}
+.mail{
+  font-size: 25px;
+}
+.footer_sec div{
+  width: 40%;
+  margin: auto;
+}
+.mail_div{
+  background: linear-gradient(45deg, hotpink, salmon);
+  border-radius: 10px;
+  margin-top: 7%;
+  margin-bottom: 10%;
+  padding:1% 2%;
+}
+footer{
+  text-align: center;
+}
